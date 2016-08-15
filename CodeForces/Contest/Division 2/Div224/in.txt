@@ -1,0 +1,8 @@
+Radius, Diameter and Circumference
+
+
+The Radius is the distance from the center to the edge.
+
+The Diameter starts at one side of the circle, goes through the center and ends on the other side.
+
+The Circumference is the distance around the edge of the circle.
